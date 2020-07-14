@@ -1,4 +1,8 @@
 ![IMG_0426](https://user-images.githubusercontent.com/48949523/87436966-ea8edc80-c617-11ea-8883-0874fedbdda8.jpg)
+![Xcode 11.0+](https://img.shields.io/badge/Xcode-11.0%2B-blue.svg)
+![Api-Development_Framework2](https://img.shields.io/badge/Api-Development_Framework2%2B-blue.svg)
+![iOS 13.0+](https://img.shields.io/badge/iOS-13.0%2B-green.svg)
+![Swift 5.1+](https://img.shields.io/badge/Swift-5.1%2B-orange.svg)
 ```
 Apiphoom
 ```
