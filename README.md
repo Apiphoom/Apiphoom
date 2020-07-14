@@ -8,14 +8,12 @@ Phone : 094-210-5005
 Facebook : Api-Phoom
 Live in : Bangkok, Thailand
 Organization : Api-Development / DEV-X(TH) / DEV-X(US)
-Fun fact : My nickname is "Api" not
 ```
 
 ```
 Hey! everyone nice to meet you 😄 
 If you have any problem,don't be shy to ask me! I'am here for you!
 you can call me or message me on massenger 💬
-
 ```
 
 
