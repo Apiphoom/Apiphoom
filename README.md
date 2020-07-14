@@ -4,7 +4,6 @@
 Name : Apiphoom Chuenchompoo
 Age : 15
 Email : Apiphoom23@gmail.com
-Phone : 094-210-5005
 Facebook : Api-Phoom
 Live in : Bangkok, Thailand
 Organization : Api-Development / DEV-X(TH) / DEV-X(US)
