@@ -1,4 +1,4 @@
-![CircularDirectCheetah-size_restricted](https://user-images.githubusercontent.com/48949523/87432680-8584b800-c612-11ea-9a6b-7cf1124d7b49.gif)
+![Jul-14-2563 20-52-39](https://user-images.githubusercontent.com/48949523/87433825-f8426300-c613-11ea-9c94-cf0cdaea958d.gif)
 
 
 <!--
