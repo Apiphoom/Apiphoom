@@ -1,10 +1,7 @@
 ![IMG_0426](https://user-images.githubusercontent.com/48949523/87436966-ea8edc80-c617-11ea-8883-0874fedbdda8.jpg)
-![a](https://img.shields.io/badge/DEVX-US-blue.svg)
-![a](https://img.shields.io/badge/DEVX-TH-blue.svg)
-![a](https://img.shields.io/badge/Api-Development-blue.svg)
 
 ```
-Apiphoom
+Name : Apiphoom Chuenchompoo
 ```
 
 
