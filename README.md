@@ -9,7 +9,7 @@ I am iOS Engineer, CloudOps Engineer and Full stack Developer. I love experiment
  
  ### Some interesting facts about me!
 
-  - In mean time, I create visual and artistic images using photoshop, you can check those are on **[My Instagram](https://www.instagram.com/imdhruv_28/)**.
+  - In mean time, I teach students how to write a code, you can check those are on **[My Facebook](https://www.facebook.com/apiphoom.chuenchompoo.1)**.
 
   - While Coding, Listening Music and developing useful code. ⭐️
 
