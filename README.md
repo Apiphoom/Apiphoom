@@ -15,7 +15,7 @@ I am iOS Engineer, CloudOps Engineer and Full stack Developer. I love experiment
 
   - While Coding, Listening Music and developing useful code. ⭐️
 
-  - Reading Novels, Action and Adventure, Autobiography & Biography, Comics, Detective and Mystery, Fantasy, Historical Fiction, Romance, Sci-Fi, History books(And sometime I watch Japan Anime 🇯🇵 ).
+  - Reading Novels, Action and Adventure, Autobiography & Biography, Comics, Detective and Mystery, Fantasy, Historical Fiction, Romance, Sci-Fi, History books(I sometimes watch Japan Anime 🇯🇵 ).
 
   - Learning Business and getting knowledge about Business Administration Methods is My Night Job.
 
