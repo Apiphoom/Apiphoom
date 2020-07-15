@@ -5,9 +5,9 @@ I am iOS Engineer, CloudOps Engineer and Full stack Developer. I love experiment
 - 💻 Working as a **CRO** at [Api Development].
 - ☀️ Developing Machine Learning based on Python.
 - ✍️ iOS Engineer and AI consultant at [DEV-X(US)]
-<details>
-  <summary>Some interesting facts about me!</summary>
-  <br>
+
+ 
+ ### Some interesting facts about me!
 
   - In mean time, I create visual and artistic images using photoshop, you can check those are on **[My Instagram](https://www.instagram.com/imdhruv_28/)**.
 
@@ -19,7 +19,6 @@ I am iOS Engineer, CloudOps Engineer and Full stack Developer. I love experiment
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=apiphoom&show_icons=true)
-</details>
 
 
 
