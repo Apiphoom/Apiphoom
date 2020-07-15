@@ -15,7 +15,7 @@ I am iOS Engineer, CloudOps Engineer and Full stack Developer. I love experiment
 
   - Reading Novels, Action and Adventure, Autobiography & Biography, Comics, Detective and Mystery, Fantasy, Historical Fiction, Romance, Sci-Fi, History books.
 
-  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job.
+  - Learning Business and getting knowledge about Business Administration Methods is My Night Job.
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=apiphoom&show_icons=true)
