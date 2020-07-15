@@ -1,19 +1,4 @@
 ![IMG_0426](https://user-images.githubusercontent.com/48949523/87436966-ea8edc80-c617-11ea-8883-0874fedbdda8.jpg)
-
-```
-Name : Apiphoom Chuenchompoo
-Age : 15
-Email : Apiphoom23@gmail.com
-Facebook : Api-Phoom
-Live in : Bangkok, Thailand
-Organization : Api-Development / DEV-X(TH) / DEV-X(US)
-```
-
-```
-Hey! everyone nice to meet you 😄 
-If you have any problem,don't be shy to ask me! I'am here for you!
-you can call me or message me on massenger 💬
-```
 ![My github stats](https://github-readme-stats.vercel.app/api?username=apiphoom&show_icons=true)
 
 
