@@ -8,7 +8,7 @@ I am iOS Engineer, CloudOps Engineer and Full stack Developer. I love experiment
 
 - ✍️ iOS Engineer and AI consultant at [DEV-X(US)]
 
-- **[My Facebook](https://www.facebook.com/apiphoom.chuenchompoo.1)**.
+- **[My Facebook](https://www.facebook.com/apiphoom.chuenchompoo.1)**
 
  
  ### Some interesting facts about me!
