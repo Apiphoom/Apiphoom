@@ -3,7 +3,9 @@
 I am iOS Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.
 
 - 💻 Working as a **CRO** at [Api Development].
+
 - ☀️ Developing Machine Learning based on Python.
+
 - ✍️ iOS Engineer and AI consultant at [DEV-X(US)]
 
  
