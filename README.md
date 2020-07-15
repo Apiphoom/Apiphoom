@@ -17,10 +17,10 @@ I am iOS Engineer, CloudOps Engineer and Full stack Developer. I love experiment
 
   - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=imdhruv99&show_icons=true)
 
-</details>
 ![My github stats](https://github-readme-stats.vercel.app/api?username=apiphoom&show_icons=true)
+</details>
+
 
 
 <!--
