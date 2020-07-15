@@ -1,4 +1,10 @@
 ![IMG_0426](https://user-images.githubusercontent.com/48949523/87436966-ea8edc80-c617-11ea-8883-0874fedbdda8.jpg)
+### Hey, It's Api here
+I am iOS Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.
+
+- 💻 Working as a **CRO** in [Api Development].
+- ☀️ Learning and Developing Machine Learning based projects in Python.
+- ✍️ Writing tech blog posts over Internet
 ![My github stats](https://github-readme-stats.vercel.app/api?username=apiphoom&show_icons=true)
 
 
