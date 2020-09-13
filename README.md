@@ -1,4 +1,4 @@
-![IMG_0426](https://user-images.githubusercontent.com/48949523/87436966-ea8edc80-c617-11ea-8883-0874fedbdda8.jpg)
+![Screen Shot 2563-09-12 at 16 47 12](https://user-images.githubusercontent.com/48949523/93023224-a7e98080-f617-11ea-9114-5743a02a9a84.png)
 ### Hey, It's Api here
 I am iOS Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.
 
