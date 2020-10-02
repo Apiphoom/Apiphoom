@@ -2,7 +2,7 @@
 
 
 ### Hey, It's Api here
-I am iOS Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.
+I am iOS Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building huge projects.
 
 - 💻 Working as a **CRO** at [Api Development].
 
