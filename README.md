@@ -24,8 +24,8 @@ I am iOS Engineer, CloudOps Engineer and Full stack Developer. I love experiment
   
   - I'm 15 years old
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apiphoom)](https://github.com/anuraghazra/github-readme-stats)
-   ![My github stats](https://github-readme-stats.vercel.app/api?username=apiphoom&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apiphoom)]
+![My github stats](https://github-readme-stats.vercel.app/api?username=apiphoom&show_icons=true)
 ### Social Media
 
 - **[My Facebook](https://www.facebook.com/apiphoom.chuenchompoo.1)**
